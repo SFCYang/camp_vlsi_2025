@@ -1,10 +1,12 @@
+
 # Campamento VLSI 2025 - PUC
-Archivos para el campamento VLSI 2025
 
 
-## Titulo 
+<!-- Esto es un comentario --> 
+![Campamento VLSI 2025](CampVLSI_2025.png)
 
-## Pseudocódigo de comandos en Linux
+
+## Comandos en Linux
 
 ```bash
 # Descripción del comando
