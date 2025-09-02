@@ -9,6 +9,16 @@
   <img src="CampVLSI_2025.png" alt="Campamento VLSI 2025" width="300"/>
 </div>
 
+## Índice
+
+- [Comandos útiles en Linux](#comandos-útiles-en-linux)
+  - [Navegación de Directorios](#navegación-de-directorios)
+  - [Listado de Archivos y Directorios](#listado-de-archivos-y-directorios)
+  - [Manipulación de Archivos y Directorios](#manipulación-de-archivos-y-directorios)
+  - [Visualización de Archivos](#visualización-de-archivos)
+  - [Editores de Texto](#editores-de-texto)
+  - [Información del Sistema](#información-del-sistema)
+
 
 ## Comandos útiles en Linux
 
