@@ -1,0 +1,4 @@
+
+comando para correr el simulador en linux (tenemos que estar en el mismo directorio):
+
+java -jar rars1_6.jar
