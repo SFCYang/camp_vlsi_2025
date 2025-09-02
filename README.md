@@ -6,7 +6,7 @@
 <!-- [Campamento VLSI 2025](CampVLSI_2025.png)--> 
 
 <div align="center">
-  <img src="CampVLSI_2025.png" alt="Campamento VLSI 2025" width="200"/>
+  <img src="CampVLSI_2025.png" alt="Campamento VLSI 2025" width="300"/>
 </div>
 
 
@@ -113,15 +113,4 @@ pwd
 ```bash
 # Mostrar el espacio libre en disco
 df -h
-```
-
-```bash
-# Mostrar el uso de
-
-# Ejemplo:
-ls -l /ruta/del/directorio
-
-# Explicación paso a paso:
-# 1. Listar archivos en el directorio especificado
-# 2. Mostrar detalles como permisos, propietario, tamaño, etc.
 ```
